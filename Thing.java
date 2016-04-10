@@ -8,4 +8,8 @@ public class Thing {
    public void sayHi() {
       System.out.println("Hi, there");
    }
+
+   public void sayBye() {
+      System.out.println("Goodbye, now");
+   }
 }
